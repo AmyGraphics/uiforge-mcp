@@ -1,0 +1,18 @@
+name: uiforge-mcp
+displayName: UIForge - Tailwind, Shadcn & Icon Engine MCP
+description: Production-ready Shadcn/ui components, 1,500+ Lucide SVG icons, Tailwind color scales, and SEO Schema generators for Cursor, Claude & Windsurf.
+category: developer-tools
+homepage: https://github.com/AmyGraphics/uiforge-mcp
+repository: https://github.com/AmyGraphics/uiforge-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/uiforge-mcp/main/icon.png
+keywords:
+  - tailwind
+  - shadcn
+  - ui-components
+  - lucide-icons
+  - mcp
+  - cursor
+  - claude
+startCommand:
+  type: http
+  url: https://uiforge-api.agentweb-hub.workers.dev/mcp

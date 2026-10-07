@@ -1,0 +1,9 @@
+{
+  "name": "uiforge-mcp",
+  "version": "1.0.0",
+  "description": "Tailwind CSS, Shadcn UI Components & Lucide Icon Engine MCP Server for Cursor, Claude Code, and Windsurf",
+  "main": "index.js",
+  "type": "module",
+  "author": "tofan96you",
+  "license": "MIT"
+}
